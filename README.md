@@ -16,8 +16,8 @@ Nothing if you directly use the .exe, Autoit if you want to modify the code.
 
 
 ### Download
-- [DragonicaSpamX 32bits.exe](/DragonicaSpamX%2032bits.exe)
-- [DragonicaSpamX 64bits.exe](/DragonicaSpamX%2064bits.exe)
+- [DragonicaSpamX 32bits.exe](../../raw/master/DragonicaSpamX%2032bits.exe)
+- [DragonicaSpamX 64bits.exe](../../raw/master/DragonicaSpamX%2064bits.exe)
 
 ## Français
 Juste un petit programme fait avec Autoit pour spam X dans Dragonica pour les prêtres, etc.
@@ -35,5 +35,5 @@ Rien si vous utilisez directement le .exe, Autoit si vous voulez modifier le cod
 
 
 ### Téléchargement
-- [DragonicaSpamX 32bits.exe](/DragonicaSpamX%2032bits.exe)
-- [DragonicaSpamX 64bits.exe](/DragonicaSpamX%2064bits.exe)
+- [DragonicaSpamX 32bits.exe](../../raw/master/DragonicaSpamX%2032bits.exe)
+- [DragonicaSpamX 64bits.exe](../../raw/master/DragonicaSpamX%2064bits.exe)
