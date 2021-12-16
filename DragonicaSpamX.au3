@@ -2,7 +2,7 @@
 #include <Array.au3>
 
 ; Constants
-Const $INTERVAL = 50
+Const $INTERVAL = 1
 Const $ATTACK_KEY = 'x'
 
 ; Bind Actions
